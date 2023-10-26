@@ -1,1 +1,1 @@
-Mon dépot est ok
+Nouveau contenu du fichier avec un bug
